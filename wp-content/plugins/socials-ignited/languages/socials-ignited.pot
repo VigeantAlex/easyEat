@@ -1,0 +1,553 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Socials Ignited\n"
+"POT-Creation-Date: 2017-09-18 19:00+0300\n"
+"PO-Revision-Date: 2015-12-15 21:37+0200\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: socials-ignited.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin-page.php:52
+msgid "Socials Ignited"
+msgstr ""
+
+#: includes/admin-page.php:54
+#, php-format
+msgid "Brought to you by the fine folks of <a href=\"%s\">CSSIgniter</a>."
+msgstr ""
+
+#: includes/admin-page.php:59
+msgid "Default font widget settings"
+msgstr ""
+
+#: includes/admin-page.php:63 includes/widget.php:110
+msgid "Icon Color:"
+msgstr ""
+
+#: includes/admin-page.php:69 includes/widget.php:111
+msgid "Icon Background Color:"
+msgstr ""
+
+#: includes/admin-page.php:75 includes/widget.php:112
+msgid "Icon Size (single integer in pixels):"
+msgstr ""
+
+#: includes/admin-page.php:81 includes/widget.php:113
+msgid "Background Size (single integer in pixels):"
+msgstr ""
+
+#: includes/admin-page.php:87 includes/widget.php:114
+msgid "Border Radius (single integer in pixels):"
+msgstr ""
+
+#: includes/admin-page.php:93 includes/widget.php:115
+msgid "Border Color:"
+msgstr ""
+
+#: includes/admin-page.php:99 includes/widget.php:116
+msgid "Border Width (single integer in pixels):"
+msgstr ""
+
+#: includes/admin-page.php:105 includes/widget.php:117
+msgid "Opacity (0.1 up to 1):"
+msgstr ""
+
+#: includes/admin-page.php:113 includes/admin-page.php:234
+msgid "Save Options"
+msgstr ""
+
+#: includes/admin-page.php:125
+msgid "Image widget settings (deprecated)"
+msgstr ""
+
+#: includes/admin-page.php:127
+msgid ""
+"The image icons of Socials Ignited are now deprecated. Icons and "
+"functionality will no longer be updated, and you are encouraged to change "
+"all your current image-based widgets to the new font-based one."
+msgstr ""
+
+#: includes/admin-page.php:132
+msgid "Open links in a new window?"
+msgstr ""
+
+#: includes/admin-page.php:138
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin-page.php:146
+msgid "Sample widget HTML output:"
+msgstr ""
+
+#: includes/admin-page.php:156
+msgid ""
+"Just enter the URL for each social service you want to display. Then go to "
+"Widgets and drag the Socials Ignited widget to the sidebar(s) that you want. "
+"You will be able to select the icon set and sizes for each instance. Please "
+"note that not all icons are available in each set."
+msgstr ""
+
+#: includes/admin-page.php:157
+msgid ""
+"You may rearrange the services by grabbing a row from its empty area and "
+"dragging it to the desired position. Services without a URL will not be "
+"displayed."
+msgstr ""
+
+#: includes/admin-page.php:173
+msgctxt "social service name"
+msgid "Service name"
+msgstr ""
+
+#: includes/admin-page.php:174
+msgctxt "social service url value"
+msgid "Value"
+msgstr ""
+
+#: includes/admin-page.php:216
+msgid "Enter your URL <em>(Include http://</em>)"
+msgstr ""
+
+#: includes/admin-page.php:221
+msgid "Recommended value:"
+msgstr ""
+
+#: includes/admin-page.php:235
+msgid "Reset custom order"
+msgstr ""
+
+#: includes/admin-page.php:256
+msgid "Socials Ignited Widget Options"
+msgstr ""
+
+#: includes/admin-page.php:256
+msgctxt "plugin name"
+msgid "Socials Ignited"
+msgstr ""
+
+#: includes/widget.php:10
+msgid "Social Icons widget, FontAwesome edition"
+msgstr ""
+
+#: includes/widget.php:14
+msgid "-= CI Socials Ignited =-"
+msgstr ""
+
+#: includes/widget.php:106
+#, php-format
+msgid ""
+"To add icons click on \"Add Icon\" at the bottom of the widget and then "
+"insert the <em>Icon code</em> and its <em>Link URL</em>. Icon codes can be "
+"found <a target=\"_blank\" href=\"%s\">here</a>, type them exactly as they "
+"are shown (with fa- in front), e.g. <strong>fa-facebook</strong>. You can "
+"also drag and drop the boxes to rearrange the icons."
+msgstr ""
+
+#: includes/widget.php:109 includes/widget.php:390
+msgid "Title:"
+msgstr ""
+
+#: includes/widget.php:118
+msgid "Open in new window."
+msgstr ""
+
+#: includes/widget.php:119
+msgid "Add <code>rel=\"nofollow\"</code> to links."
+msgstr ""
+
+#: includes/widget.php:131 includes/widget.php:141
+msgid "Icon Code:"
+msgstr ""
+
+#: includes/widget.php:132 includes/widget.php:142
+msgid "Link URL:"
+msgstr ""
+
+#: includes/widget.php:133 includes/widget.php:143
+msgid "Title text (optional):"
+msgstr ""
+
+#: includes/widget.php:134 includes/widget.php:144
+msgid "Remove me"
+msgstr ""
+
+#: includes/widget.php:147
+msgid "Add Field"
+msgstr ""
+
+#: includes/widget.php:304
+msgid "Social Icons widget placeholder (deprecated)"
+msgstr ""
+
+#: includes/widget.php:306
+msgid "Socials Ignited (deprecated)"
+msgstr ""
+
+#: includes/widget.php:388
+msgid ""
+"This widget is now deprecated and it will be removed in a future plugin "
+"update (v2.0). Please use the <strong>-= CI Socials Ignited =-</strong> "
+"widget instead."
+msgstr ""
+
+#: includes/widget.php:389
+msgid ""
+"This widget is a placeholder for Social Media icons. You may configure those "
+"icons from <strong>Settings</strong> menu, <strong>Socials Ignited</strong> "
+"sub-menu."
+msgstr ""
+
+#: includes/widget.php:403
+msgid "Icon set:"
+msgstr ""
+
+#: includes/widget.php:413
+msgid "Color Variation:"
+msgstr ""
+
+#: includes/widget.php:424
+msgid "Icon Size:"
+msgstr ""
+
+#: includes/widget.php:436
+msgid ""
+"Please save the widget first, in order to be able to choose more options."
+msgstr ""
+
+#: socials-ignited.php:61
+msgctxt "website name"
+msgid "AddThis"
+msgstr ""
+
+#: socials-ignited.php:62
+msgctxt "website name"
+msgid "Amazon"
+msgstr ""
+
+#: socials-ignited.php:63
+msgctxt "website name"
+msgid "Amazon (alternative icon)"
+msgstr ""
+
+#: socials-ignited.php:64
+msgctxt "website name"
+msgid "Apple"
+msgstr ""
+
+#: socials-ignited.php:65
+msgctxt "website name"
+msgid "Apple (alternative icon)"
+msgstr ""
+
+#: socials-ignited.php:66
+msgctxt "website name"
+msgid "Blogger"
+msgstr ""
+
+#: socials-ignited.php:67
+msgctxt "website name"
+msgid "Behance"
+msgstr ""
+
+#: socials-ignited.php:68
+msgctxt "website name"
+msgid "Delicious"
+msgstr ""
+
+#: socials-ignited.php:69
+msgctxt "website name"
+msgid "Design Float"
+msgstr ""
+
+#: socials-ignited.php:70
+msgctxt "website name"
+msgid "Design Bump"
+msgstr ""
+
+#: socials-ignited.php:71
+msgctxt "website name"
+msgid "DeviantArt"
+msgstr ""
+
+#: socials-ignited.php:72
+msgctxt "website name"
+msgid "Digg"
+msgstr ""
+
+#: socials-ignited.php:73
+msgctxt "website name"
+msgid "Dopplr"
+msgstr ""
+
+#: socials-ignited.php:74
+msgctxt "website name"
+msgid "Dribbble"
+msgstr ""
+
+#: socials-ignited.php:75
+msgctxt "website name"
+msgid "Email"
+msgstr ""
+
+#: socials-ignited.php:76
+msgctxt "website name"
+msgid "Evernote"
+msgstr ""
+
+#: socials-ignited.php:77
+msgctxt "website name"
+msgid "Facebook"
+msgstr ""
+
+#: socials-ignited.php:78
+msgctxt "website name"
+msgid "Flickr"
+msgstr ""
+
+#: socials-ignited.php:79
+msgctxt "website name"
+msgid "Forrst"
+msgstr ""
+
+#: socials-ignited.php:80
+msgctxt "website name"
+msgid "FriendFeed"
+msgstr ""
+
+#: socials-ignited.php:81
+msgctxt "website name"
+msgid "GitHub"
+msgstr ""
+
+#: socials-ignited.php:82
+msgctxt "website name"
+msgid "GitHub (alternative icon)"
+msgstr ""
+
+#: socials-ignited.php:83
+msgctxt "website name"
+msgid "Google+"
+msgstr ""
+
+#: socials-ignited.php:84
+msgctxt "website name"
+msgid "Grooveshark"
+msgstr ""
+
+#: socials-ignited.php:85
+msgctxt "website name"
+msgid "Gtalk"
+msgstr ""
+
+#: socials-ignited.php:86
+msgctxt "website name"
+msgid "Instagram"
+msgstr ""
+
+#: socials-ignited.php:87
+msgctxt "website name"
+msgid "LastFM"
+msgstr ""
+
+#: socials-ignited.php:88
+msgctxt "website name"
+msgid "LinkedIn"
+msgstr ""
+
+#: socials-ignited.php:89
+msgctxt "website name"
+msgid "MySpace"
+msgstr ""
+
+#: socials-ignited.php:90
+msgctxt "website name"
+msgid "Netvibes"
+msgstr ""
+
+#: socials-ignited.php:91
+msgctxt "website name"
+msgid "Newsvine"
+msgstr ""
+
+#: socials-ignited.php:92
+msgctxt "website name"
+msgid "Orkut"
+msgstr ""
+
+#: socials-ignited.php:93
+msgctxt "website name"
+msgid "Path"
+msgstr ""
+
+#: socials-ignited.php:94
+msgctxt "website name"
+msgid "Paypal"
+msgstr ""
+
+#: socials-ignited.php:95
+msgctxt "website name"
+msgid "Picasa"
+msgstr ""
+
+#: socials-ignited.php:96
+msgctxt "website name"
+msgid "Pinterest"
+msgstr ""
+
+#: socials-ignited.php:97
+msgctxt "website name"
+msgid "Posterous"
+msgstr ""
+
+#: socials-ignited.php:98
+msgctxt "website name"
+msgid "Reddit"
+msgstr ""
+
+#: socials-ignited.php:99
+msgctxt "website name"
+msgid "RSS"
+msgstr ""
+
+#: socials-ignited.php:100
+msgctxt "website name"
+msgid "ShareThis"
+msgstr ""
+
+#: socials-ignited.php:101
+msgctxt "website name"
+msgid "Skype"
+msgstr ""
+
+#: socials-ignited.php:102
+msgctxt "website name"
+msgid "SoundCloud"
+msgstr ""
+
+#: socials-ignited.php:103
+msgctxt "website name"
+msgid "Spotify"
+msgstr ""
+
+#: socials-ignited.php:104
+msgctxt "website name"
+msgid "StumbleUpon"
+msgstr ""
+
+#: socials-ignited.php:105
+msgctxt "website name"
+msgid "Technorati"
+msgstr ""
+
+#: socials-ignited.php:106
+msgctxt "website name"
+msgid "Tumblr"
+msgstr ""
+
+#: socials-ignited.php:107
+msgctxt "website name"
+msgid "Twitter"
+msgstr ""
+
+#: socials-ignited.php:108
+msgctxt "website name"
+msgid "Viddler"
+msgstr ""
+
+#: socials-ignited.php:109
+msgctxt "website name"
+msgid "Vimeo"
+msgstr ""
+
+#: socials-ignited.php:110
+msgctxt "website name"
+msgid "Virb"
+msgstr ""
+
+#: socials-ignited.php:111
+msgctxt "website name"
+msgid "Virb (alternative icon)"
+msgstr ""
+
+#: socials-ignited.php:112
+msgctxt "website name"
+msgid "Yahoo"
+msgstr ""
+
+#: socials-ignited.php:113
+msgctxt "website name"
+msgid "Yahoo (alternative icon)"
+msgstr ""
+
+#: socials-ignited.php:114
+msgctxt "website name"
+msgid "YouTube"
+msgstr ""
+
+#: socials-ignited.php:115
+msgctxt "website name"
+msgid "YouTube (alternative icon)"
+msgstr ""
+
+#: socials-ignited.php:116
+msgctxt "website name"
+msgid "Windows"
+msgstr ""
+
+#: socials-ignited.php:117
+msgctxt "website name"
+msgid "WordPress"
+msgstr ""
+
+#: socials-ignited.php:118
+msgctxt "website name"
+msgid "Zerply"
+msgstr ""
+
+#: socials-ignited.php:154
+msgctxt "icons set name"
+msgid "Square"
+msgstr ""
+
+#: socials-ignited.php:155
+msgctxt "icons set name"
+msgid "Round"
+msgstr ""
+
+#: socials-ignited.php:206
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.cssigniter.com/ignite/socials-ignited"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Socials Ignited plugin gives you a widget, allowing you to display and "
+"link icons on your website of more than 50 social networks. Once activated "
+"go to Settings > Socials Ignited to add your social profiles and then to "
+"Appearance > Widgets to use the widget :)"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The CSSIgniter Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.cssigniter.com/"
+msgstr ""

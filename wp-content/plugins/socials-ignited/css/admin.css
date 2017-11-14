@@ -1,0 +1,30 @@
+#cisiw-admin-table { 
+	border-bottom: solid 1px #DFDFDF; 
+	width: 100%;
+/*  	table-layout: fixed; */
+}
+
+#cisiw-admin-table tr { 
+	border-top: solid 1px #DFDFDF; 
+}
+
+#cisiw-admin-table .icon { width: 32px; }
+#cisiw-admin-table .iconname { width: 150px; }
+#cisiw-admin-table .url { width: auto; }
+
+#cisiw-admin-table td p { 
+	margin-top:8px; 
+}
+
+#cisiw-admin-table tr:nth-child(odd) th, 
+#cisiw-admin-table tr:nth-child(odd) td { 
+	background: #f1f1f1; 
+}
+
+#cisiw-admin-table th strong { 
+	position:relative; top:5px; 
+}
+
+#cisiw-admin-options textarea {
+	vertical-align: top;
+}

@@ -1,0 +1,22 @@
+label[for^=widget-socials-ignited],
+label[for^=widget-ci_socials_ignited] {
+  display: block;
+}
+
+div[id*=socials-ignited] .add-icon {
+  margin-bottom: 20px;
+}
+
+.cisiw-icon {
+  padding: 10px;
+  background: #FAFAFA;
+  border: 1px solid #E5E5E5;
+  margin-bottom: 15px;
+}
+.cisiw-icon label {
+  margin: 0 0 8px;
+  display: block;
+}
+.cisiw-icon .ci-icon-remove {
+  margin: 5px 0 0;
+}

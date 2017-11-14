@@ -1,0 +1,9 @@
+/* GLOBAL: #Default Color
+================================================== */
+
+a, a:visited, a:focus { color: #000; }
+a:hover { color: #555; }
+
+#tophead, #footer > .row {
+	background: #253c2b;
+}
